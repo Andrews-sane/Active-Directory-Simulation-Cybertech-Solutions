@@ -78,7 +78,7 @@ Created and linked using \*\*Group Policy Management Console (gpmc.msc)\*\*:
   - `User Configuration` > `Policies` > `Administrative Templates` > `Start Menu and Taskbar` > `Remove and Prevent Access to the Shut Down, Restart, Sleep and Hibernate commands`  
   - Set **"Remove and Prevent Access to the Shut Down, Restart, Sleep and Hibernate commands"** to **Enabled**
 
-Result: Access to shutdown, restart, sleep and hibernate are disabled for all users in the **Accounts OU**.
+Result: Access to shutdown, restart, sleep and hibernate are disabled for all users in the **HR and IT OU**.
 
 ---  
 ## Screenshots
