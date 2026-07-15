@@ -1,19 +1,19 @@
-\# Active-Directory--Simulation  
+# Active-Directory--Simulation  
 Active Directory- Simulation  
-\# Active Directory Simulation – 'Cybertech Corporate Services'  
+# Active Directory Simulation – 'Cybertech Corporate Services'  
 This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called \*\*Cybertech Corporate Services\*\*. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
 
-\---
+---
 
-\#\# Company Overview/ Operating System
+## Company Overview/ Operating System
 
-\*\*Cybertech Corporate Service\*\* is a small Management consultancy activities other than financial management. The following are its structure:
+**Cybertech Corporate Service\*\* is a small Management consultancy activities other than financial management. The following are its structure:
 
-\- 1 x Windows Server (AD Domain Controller)  
-\- 1 x Windows 8 Client PC (HR)  
-\- 1 x Windows 8 Client PC (IT)
+- 1 x Windows Server (AD Domain Controller)  
+- 1 x Windows 8 Client PC (HR)  
+- 1 x Windows 8 Client PC (IT)
 
-\---
+---
 
 \#\# Project Objectives
 
