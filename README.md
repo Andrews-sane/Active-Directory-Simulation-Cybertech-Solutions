@@ -83,10 +83,10 @@ Result: Access to shutdown, restart, sleep and hibernate are disabled for all us
 ---  
 ## Screenshots
 
-- AD Domain Structure  
-- GPO Editor Screenshot  
-- PC joined to domain  
-- Result of access denied to shutdown, restart, sleep and hibernate
+- [AD Domain Structure](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/Screenshots/Ous_group_and_users.png)  
+- [GPO Editor Screenshot](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/Screenshots/Group_policy_management.png)  
+- [PC joined to domain](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/Screenshots/windows_machine_connection.png)  
+- [Result of access denied to shutdown, restart, sleep and hibernate](https://github.com/Andrews-sane/Active-Directory-Simulation-Cybertech-Solutions/blob/main/Screenshots/Access_denied.png)
 
 ---
 
