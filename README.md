@@ -64,7 +64,7 @@ cybertech.local
     
 
 ├── OU: IT  
-│   └── Users:alex.IT  
+│   └── Users: alex.IT  
 ```
 
 ---  
